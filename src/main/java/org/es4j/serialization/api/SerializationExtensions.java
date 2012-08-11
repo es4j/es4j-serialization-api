@@ -1,9 +1,7 @@
 package org.es4j.serialization.api;
 
-//import org.es4j.eventstore.api.dotnet.MemoryStream;
-
-import org.es4j.dotnet.MemoryStream;
-import org.es4j.dotnet.Stream;
+import org.es4j.dotnet.streams.MemoryStream;
+import org.es4j.dotnet.streams.Stream;
 import org.es4j.util.GenericType;
 
 //import org.es4j.eventstore.api.dotnet.Stream;

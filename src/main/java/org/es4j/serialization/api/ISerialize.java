@@ -1,6 +1,6 @@
 package org.es4j.serialization.api;
 
-import org.es4j.dotnet.Stream;
+import org.es4j.dotnet.streams.Stream;
 import org.es4j.util.GenericType;
 
 //package org.es4j.eventstore.api.serialization;
